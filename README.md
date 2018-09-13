@@ -1,6 +1,6 @@
 # Text Segmentation Trap
 
-这里会罗列一些容易被分词工具被分错的句子，详细的测试代码见 [notebook](https://github.com/secsilm/text-segmentation-trap/blob/master/segmentation-test.ipynb)。
+这里会罗列一些容易被分词工具被分错的句子，详细的测试代码见 [notebook](https://github.com/secsilm/text-segmentation-trap/blob/master/segmentation-test.ipynb)，可以通过 `CTRL` + `F` 来快速查找想要的句子。
 
 > 注：`来源` 列中的 `聊天` 指的是该句来源于日常聊天，包括口头聊天和微信等社交软件聊天记录等。
 
